@@ -35,12 +35,12 @@ weight = 30
 
 [params.profileMode]
 enabled = true
-title = "Enter the Content"
-subtitle = "Enter the Content"
-imageUrl = "img/name.jpg"
+title = "歐宥婕"
+subtitle = "就讀忠明高中"
+imageUrl = ""D:\camp\DSC02038.jpg""
 imageWidth = 120
 imageHeight = 120
-imageTitle = "Enter the content"
+imageTitle = "picture"
 [[params.profileMode.buttons]]
 name = "Blog"
 url = "/posts/"
@@ -51,7 +51,11 @@ url = "/categories/"
 
 [[params.socialIcons]]
 name = "github"
-url = "your github profile url"
+url = "https://github.com/ou-joy"
+name = "youtube"
+url = "https://www.youtube.com/@user-bx3fs8bb5z/aboutl"
+name = "twitter"
+url = "https://twitter.com/oujoy0814?s=21&t=dEsJjXtWHv2nML0WjoVA1Q"
 
 [params] 
 ShowBreadCrumbs = true    

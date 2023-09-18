@@ -35,9 +35,9 @@ weight = 30
 
 [params.profileMode]
 enabled = true
-title = "歐宥婕"
-subtitle = "就讀忠明高中"
-imageUrl = ""D:\camp\DSC02038.jpg""
+title = "OU,YOU-JIE"
+subtitle = "Studying in Chungming High School."
+imageUrl = "img/DSC02038.JPG"
 imageWidth = 120
 imageHeight = 120
 imageTitle = "picture"
@@ -52,8 +52,12 @@ url = "/categories/"
 [[params.socialIcons]]
 name = "github"
 url = "https://github.com/ou-joy"
+
+[[params.socialIcons]]
 name = "youtube"
 url = "https://www.youtube.com/@user-bx3fs8bb5z/aboutl"
+
+[[params.socialIcons]]
 name = "twitter"
 url = "https://twitter.com/oujoy0814?s=21&t=dEsJjXtWHv2nML0WjoVA1Q"
 

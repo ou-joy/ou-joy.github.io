@@ -37,10 +37,11 @@ weight = 30
 enabled = true
 title = "OU,YOU-JIE"
 subtitle = "Studying in Chungming High School."
-imageUrl = "static\img\DSC02038.JPG"
+imageUrl = "https://github.com/ou-joy/ou-joy.github.io/blob/main/static/img/DSC02038.JPG"
 imageWidth = 120
 imageHeight = 120
 imageTitle = "picture"
+
 [[params.profileMode.buttons]]
 name = "Blog"
 url = "/posts/"

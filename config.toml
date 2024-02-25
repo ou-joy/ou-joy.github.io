@@ -35,12 +35,12 @@ weight = 30
 
 [params.profileMode]
 enabled = true
-title = "OU,YOU-JIE"
-subtitle = "Studying in Chungming High School."
-imageUrl = "img/DSC02038.JPG"
+title = "Enter the Content"
+subtitle = "Enter the Content"
+imageUrl = "img/name.jpg"
 imageWidth = 120
 imageHeight = 120
-imageTitle = "picture"
+imageTitle = "Enter the content"
 
 [[params.profileMode.buttons]]
 name = "Blog"
@@ -52,15 +52,7 @@ url = "/categories/"
 
 [[params.socialIcons]]
 name = "github"
-url = "https://github.com/ou-joy"
-
-[[params.socialIcons]]
-name = "youtube"
-url = "https://www.youtube.com/@user-bx3fs8bb5z/aboutl"
-
-[[params.socialIcons]]
-name = "twitter"
-url = "https://twitter.com/oujoy0814?s=21&t=dEsJjXtWHv2nML0WjoVA1Q"
+url = "your github profile url"
 
 [params] 
 ShowBreadCrumbs = true    
